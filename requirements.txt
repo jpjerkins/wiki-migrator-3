@@ -1,0 +1,19 @@
+# Wiki Migrator 3 Dependencies
+
+# Core
+pydantic>=2.0.0
+
+# CLI (choose one)
+typer>=0.9.0
+# click>=8.0.0
+
+# Markdown parsing (choose one)
+markdown-it-py>=3.0.0
+# mistune>=3.0.0
+
+# Optional: Enhanced logging
+# loguru>=0.7.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
