@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8f33507e849226be",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f7d96a5576c4209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67ebdbacbc40efc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45a73d85c6b9822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fad3767b71d4c3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be05253ac9421f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2cc1c0fd9cfaacc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9862ea83b29f43c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f495f56e093c531f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9be14f4c715f5bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121e5f2e6b45a90c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "resolve_multi_parents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for resolve_multi_parents"
+            }
+          },
+          {
+            "id": "0f1595dc07bf778e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "resolve_multi_parents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from resolve_multi_parents"
+            }
+          },
+          {
+            "id": "f75a87ffab8b1e93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "48061675be4499a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8148a8733d5df3e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "resolve_multi_parents.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of resolve_multi_parents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c67ebdbacbc40efc",
+  "lastOpenFiles": [
+    "output/01457A9BFGHJKL/Research Zanzibar permissions.md",
+    "output/01457A9BFGHJKL/Replace teats with details in steno.md",
+    "output/01457A9BFGHJKL/Replace hot water pipe in garage.md",
+    "output/01457A9BFGHJKL/Renew Jerkins domains every November.md",
+    "output/01457A9BFGHJKL/Read next chapter in 2 Corinthians commentary 2026-02-14.md",
+    "output/01457A9BFGHJKL/Re-pot the spider.md",
+    "output/01457A9BFGHJKL/Process papers on books in office.md",
+    "output/01457A9BFGHJKL/Print this paper towel holder.md",
+    "output/01457A9BFGHJKL/Pray for Carrie.md",
+    "output/01457A9BFGHJKL/Plan a trip to Squamish, BC, Canada.md",
+    "output/01457A9BFGHJKL/Mower’s self-propel.md",
+    "output/01457A9BFGHJKL/Move the Fire TV to Carrie’s Amazon account.md",
+    "output/01457A9BFGHJKL/Look for truck backup camera kits.md",
+    "output/01457A9BFGHJKL/List fish tank on Marketplace.md",
+    "output/01457A9BFGHJKL/Swarming_ One piece continuous flow.md",
+    "output/01457A9BFGHJKL/Swagger.md",
+    "output/01457A9BFGHJKL/Sunday Notes 2026-02-08.md",
+    "output/01457A9BFGHJKL/Sun Shade - 2011FordExplorer.md",
+    "output/01457A9BFGHJKL/Summer 2023.md",
+    "output/01457A9BFGHJKL/Success grilling salmon and asparagus.md",
+    "output/01457A9BFGHJKL/Subway Order.md",
+    "output/01457A9BFGHJKL/StuffToInvestigate.md",
+    "output/01457A9BFGHJKL/Stuffed french toast recipe.md",
+    "output/01457A9BFGHJKL/Spec Kit Insights.md",
+    "output/01457A9BFGHJKL/Southern Veterinary.md",
+    "output/01457A9BFGHJKL/Sources of free plans for small boats and building tips.md",
+    "output/01457A9BFGHJKL/_notes.json",
+    "output/01457A9BFGHJKL",
+    "transforms/L_inline_tasks.py",
+    "output/01457A9BFGHJK/_notes.json",
+    "output/01457A9BFGHJK",
+    "resolve_backups",
+    "transforms/K_resolve_multi_parents.py",
+    "salvage_selections.py",
+    "diagnose_i2.py"
+  ]
+}
